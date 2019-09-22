@@ -1,0 +1,36 @@
+.header{
+	background-color: #444;
+	width: 100%;
+	position: fixed;
+	z-index: 99;
+	border-top: 3px solid yellow;
+	border-bottom: 3px solid black;
+	padding-top: 10px;
+}
+h1{
+	color: white;
+}
+img{
+	margin: 15px 25px;
+	height: 120px;
+	width: 120px;
+}
+.footer{
+	margin-top: 165px;
+	border-top: 3px solid yellow;
+	padding-top: 10px;
+	width: 100%;
+	background-color: white;
+}
+.gajah{
+	padding-top: 120px;
+}
+th{
+	text-align: center;
+}
+.btn-dark:hover{
+	color: yellow;
+}
+table{
+	border-top: 5px solid black;
+}
